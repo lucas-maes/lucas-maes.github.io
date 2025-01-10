@@ -79,7 +79,7 @@ img{
 }
 
 .site-header{
-  border-color: #000000;
+  border: none;
 }
 
 .h-card {
@@ -153,20 +153,12 @@ h1#about-me {
 }
 
 .page-link{
-  padding-top: 5px !important;
-  padding-left: 15px !important;
-  padding-right: 15px !important;
-  padding-bottom: 5px !important;
   color: #000000 !important;
   text-decoration: none;
-  border: 1px solid #ffffff;
 }
 
 .page-link:hover{
   color: #1429a0 !important;
-  text-decoration: none;
-  border: 1px solid #1429a0;
-  border-radius: 17px;
 }
 
 // Blog layout is home, so set size as other pages
